@@ -53,6 +53,7 @@ int main(){
 	for (int i = 0; i < v1.size(); i++)
 		cout << v1[i] << " ";
 	cout << endl;
+	sort(vec.begin(), vec.end()); // sorting elementos of the vector
 	//at(index) getting the element at index
 	cout << "The element at index 1 is: " << v1.at(1) << endl;
 	//back() return the last element of the vector

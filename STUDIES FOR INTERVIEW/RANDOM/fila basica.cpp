@@ -19,7 +19,7 @@ int main(){
 	cartas.push("Rei de Ouro");
 	cartas.push("Rei de Paus");
 	cout << "Primeira carta da fila: " << cartas.front() << endl;
-	cout << "Última carta da fila: " << cartas.back() << endl;
+	cout << "Ãšltima carta da fila: " << cartas.back() << endl;
 	cout << "Tamanho da fila: " << cartas.size() << endl;
 	
 	while(!cartas.empty()){

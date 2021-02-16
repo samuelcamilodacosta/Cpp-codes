@@ -1,10 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 /*
-aula.begin(); começa no iterator
+aula.begin(); comeÃ§a no iterator
 advance(iterator, distancia);
 aula.insert(iterator, valor para inserir)
-aula.erase(iterator); // remove a posição ditada posterior
+aula.erase(iterator); // remove a posiÃ§Ã£o ditada posterior
 */
 
 int main(){

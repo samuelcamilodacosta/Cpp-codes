@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//fibonnaci em ordem 2^n (n„o usar)
+//fibonnaci em ordem 2^n (n√£o usar)
 
 int fibonacci(int n){
 	if (n<=0) {
@@ -18,7 +18,6 @@ int main(){
 	int n;
 	cin >> n;
 	cout << fibonacci(n) << endl;
-	
 	return 0;
 }
 

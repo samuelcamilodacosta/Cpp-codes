@@ -27,9 +27,9 @@ int main(){
 	cin >> num;
 	resultado = buscabinaria(vetor, num, tam);
 	if(resultado!=-1){
-		cout << "A posição desse número no vetor é: " << resultado <<endl;
+		cout << "A posiÃ§Ã£o desse nÃºmero no vetor Ã©: " << resultado <<endl;
 	}else{
-		cout << "Valor não está inserido no vetor." << endl;
+		cout << "Valor nÃ£o estÃ¡ inserido no vetor." << endl;
 	}
 	return 0;
 }

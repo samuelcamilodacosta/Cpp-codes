@@ -33,5 +33,9 @@ Although I lost most of the codes from the years 2014-2018, the ones I didn't ar
     * Well, here we find several exercises from easy to difficult in C++ solving competitive programming exercises from the URI site.
         
           Note: in 2021 the URI site changed its name to Beecrowd.
+          
+
+![img](https://user-images.githubusercontent.com/75193747/140667843-30f09da3-5634-4cd1-97d6-5088f949d2e3.jpg)
+
 
 ## See you later!
